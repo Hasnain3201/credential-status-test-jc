@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://Hasnain3201.github.io/credential-status-test-jc/1SYR1RSFMK#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BMQ0AAAACIGf_0LbwAhoAAAAAAAAAAAAAAIC_AfqBUGnUMAAA",
     "statusPurpose": "revocation"
   },
-  "issuer": "did:key:z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR",
-  "issuanceDate": "2025-03-16T05:53:31.047Z",
+  "issuer": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
+  "issuanceDate": "2025-04-08T20:36:48.083Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2025-03-16T05:53:31Z",
-    "verificationMethod": "did:key:z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR#z6Mkg165pEHaUPxkY4NxToor7suxzawEmdT1DEWq3e1Nr2VR",
+    "created": "2025-04-08T20:36:48Z",
+    "verificationMethod": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy#z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z4HpR4MxdTDpeAa1726Etf5V6T8gjoGVkPbi4N6r2zmxbjKxPFiXqNCq19rr4uXiQJUq5WZrGxku52YjntSyCJCnp"
+    "proofValue": "z4U9NhT1CUxAzHbhGptZ3rG2auPh7Qw9ZWjRmuK91e3mNPNXnkjkjiXrfH8bYQREC7w78tJmxumxyoaBE2XALeCJ5"
   }
 }
