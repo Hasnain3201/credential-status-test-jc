@@ -16,12 +16,12 @@
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
-  "issuanceDate": "2025-04-08T20:37:56.506Z",
+  "issuanceDate": "2025-04-08T23:42:58.988Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2025-04-08T20:37:56Z",
+    "created": "2025-04-08T23:42:58Z",
     "verificationMethod": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy#z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z2ekNqX9wVWcS4ZYqntiF1Qasb9CTFSx2GsL9gsnFLH9EJxicaZhonmkHcfrqBU5Z3FfSzsxt8J131PyX4U28tK3"
+    "proofValue": "zurESkqTkJ9NEj4ARfVz2MPpw5mdHuskvwMXS5XETMW8BHGZKtZE6aqxhyzRf1z9c3Kw8DENXWUPDJX5SRQkwXpc"
   }
 }
