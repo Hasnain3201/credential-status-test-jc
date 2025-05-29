@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://Hasnain3201.github.io/credential-status-test-jc/1SYR1RSFMK#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACILP_B_vCBDQAAAAAAAAAAAAAAAB_Ax2BdcnUMAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACIPe72hcmoAEAAAAAAAAAAAAAAPgb46iLy9QwAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
-  "issuanceDate": "2025-05-29T04:58:43.466Z",
+  "issuanceDate": "2025-05-29T05:05:11.360Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2025-05-29T04:58:43Z",
+    "created": "2025-05-29T05:05:11Z",
     "verificationMethod": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy#z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z2VWJCjzttMHNBDomjWQtUAij2JxrjTrjpXbZL4sJthiKcLfhtrsd3CWFgwAATVfNwQKHVifmT4mNanVoHPSZn7TZ"
+    "proofValue": "z4hpY5mtbP37FPPuBRztQQigoriTh5pg2tndGnzhzB33sWKyczWHEyPmsNjsaZhithD39b3yPNMtU8qXmn2i9m2YT"
   }
 }
